@@ -1,0 +1,4789 @@
+[
+  {
+    "id": "28ec1589-e639-4151-b0b6-acf4fd00ca98",
+    "score": 100,
+    "title": "Demons (Imagine Dragons remix)",
+    "length": 196998,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2013-10-22",
+    "releases": [
+      {
+        "id": "63aeb2d0-6b89-4f3f-999b-9a3771305ca2",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Demons (remixes)",
+        "status": "Official",
+        "release-group": {
+          "id": "03ae1e87-6b87-48c4-99a5-7b52569de749",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Demons (remixes)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2013-10-22",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2013-10-22",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 4,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "f1dd2aeb-2f50-4e00-a77c-3284600de362",
+                "number": "1",
+                "title": "Demons (Imagine Dragons remix)",
+                "length": 196998
+              }
+            ],
+            "track-count": 4,
+            "track-offset": 0
+          }
+        ]
+      },
+      {
+        "id": "cccded46-bd67-45ee-b23f-f5c7573fda90",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Demons (remixes)",
+        "status": "Official",
+        "release-group": {
+          "id": "03ae1e87-6b87-48c4-99a5-7b52569de749",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Demons (remixes)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2013-10-22",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2013-10-22",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 3,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "a49489a9-f492-4f31-8159-2b06fcbaae9f",
+                "number": "1",
+                "title": "Demons (Imagine Dragons remix)",
+                "length": 196998
+              }
+            ],
+            "track-count": 3,
+            "track-offset": 0
+          }
+        ]
+      }
+    ],
+    "isrcs": [
+      "USUM71313666"
+    ]
+  },
+  {
+    "id": "f71aca70-08d6-4dd1-bb01-a160ff2ba1fd",
+    "score": 94,
+    "title": "Dragons",
+    "length": 229000,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Princess Nokia",
+        "artist": {
+          "id": "4b93ee9e-e39d-4036-9527-551b2236f5af",
+          "name": "Princess Nokia",
+          "sort-name": "Princess Nokia",
+          "aliases": [
+            {
+              "sort-name": "Destiny",
+              "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+              "name": "Destiny",
+              "locale": null,
+              "type": "Artist name",
+              "primary": null,
+              "begin-date": null,
+              "end-date": null
+            },
+            {
+              "sort-name": "Wavy $pice",
+              "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+              "name": "Wavy $pice",
+              "locale": null,
+              "type": "Artist name",
+              "primary": null,
+              "begin-date": null,
+              "end-date": null
+            },
+            {
+              "sort-name": "Frasqueri, Destiny",
+              "name": "Destiny Frasqueri",
+              "locale": null,
+              "type": null,
+              "primary": null,
+              "begin-date": null,
+              "end-date": null
+            },
+            {
+              "sort-name": "Destiny Nicole Frasqueri",
+              "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+              "name": "Destiny Nicole Frasqueri",
+              "locale": "en",
+              "type": "Legal name",
+              "primary": null,
+              "begin-date": null,
+              "end-date": null
+            },
+            {
+              "sort-name": "Wavy Spice",
+              "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+              "name": "Wavy Spice",
+              "locale": null,
+              "type": "Artist name",
+              "primary": null,
+              "begin-date": null,
+              "end-date": null
+            }
+          ]
+        }
+      }
+    ],
+    "first-release-date": "2014-01",
+    "releases": [
+      {
+        "id": "9e5a51bb-c2c6-4bab-926a-a2798475246f",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Dragons",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Princess Nokia",
+            "artist": {
+              "id": "4b93ee9e-e39d-4036-9527-551b2236f5af",
+              "name": "Princess Nokia",
+              "sort-name": "Princess Nokia"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "21d328f3-a7ac-41ca-9f59-1c595baecadb",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Dragons",
+          "primary-type": "Single"
+        },
+        "date": "2014-01",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2014-01",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "41092d35-4f85-4931-8ea6-90a96b77e3ce",
+                "number": "1",
+                "title": "Dragons",
+                "length": 229000
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e70300af-0a04-410f-a875-1121802017d8",
+    "score": 93,
+    "title": "Dream (Jorgen Odegard remix)",
+    "length": 276493,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2015-08-31",
+    "releases": [
+      {
+        "id": "7c9852d7-d4ba-47b3-9e1a-50aaab7b6801",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Dream (Jorgen Odegard remix)",
+        "status": "Official",
+        "release-group": {
+          "id": "2273f66f-c4fe-40cd-8f3d-6288f1bd7211",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Dream (Jorgen Odegard remix)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2015-08-31",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2015-08-31",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "7052fd1b-37e0-41b2-bde0-226c85f98daf",
+                "number": "1",
+                "title": "Dream (Jorgen Odegard remix)",
+                "length": 276493
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      }
+    ],
+    "isrcs": [
+      "USUM71512946"
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "alternative rock"
+      }
+    ]
+  },
+  {
+    "id": "53604865-e07e-4ba1-99e5-ff917dd8da3f",
+    "score": 93,
+    "title": "It's Time (Passion Pit remix)",
+    "length": 271000,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2012-10-02",
+    "releases": [
+      {
+        "id": "6d20812e-9907-447f-87a9-a4277b80f85f",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "It's Time",
+        "status": "Official",
+        "release-group": {
+          "id": "6a93ad87-777d-4c6f-a6c6-d4379ba26ac8",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "It's Time",
+          "primary-type": "Single"
+        },
+        "date": "2013-08-02",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "2013-08-02",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "track-count": 4,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "02b33860-607c-4d13-8e55-a99912a3fdd8",
+                "number": "2",
+                "title": "It's Time (Passion Pit remix)",
+                "length": 271000
+              }
+            ],
+            "track-count": 4,
+            "track-offset": 1
+          }
+        ]
+      },
+      {
+        "id": "561e0eeb-fa75-478b-8050-40d5b225d6a6",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "It's Time (Passion Pit remix)",
+        "status": "Official",
+        "release-group": {
+          "id": "6a93ad87-777d-4c6f-a6c6-d4379ba26ac8",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "It's Time",
+          "primary-type": "Single"
+        },
+        "date": "2012-10-02",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2012-10-02",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "dbd7828e-2e4d-41d0-99e4-c75faf3d235c",
+                "number": "1",
+                "title": "It's Time (Passion Pit remix)",
+                "length": 271000
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ea707523-e22b-4001-90b5-42acc6ffa1c1",
+    "score": 93,
+    "title": "Demons",
+    "length": 236866,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2013-10-22",
+    "releases": [
+      {
+        "id": "63aeb2d0-6b89-4f3f-999b-9a3771305ca2",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Demons (remixes)",
+        "status": "Official",
+        "release-group": {
+          "id": "03ae1e87-6b87-48c4-99a5-7b52569de749",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Demons (remixes)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2013-10-22",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2013-10-22",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 4,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "fff6fde7-1510-4a3f-9d88-7b03e3cdd78e",
+                "number": "4",
+                "title": "Demons",
+                "length": 236866
+              }
+            ],
+            "track-count": 4,
+            "track-offset": 3
+          }
+        ]
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "alternative rock"
+      }
+    ]
+  },
+  {
+    "id": "bd0940cf-e16b-4ff1-b65f-873d9db18d7d",
+    "score": 93,
+    "title": "Demons (KIDinaKORNER remix)",
+    "length": 199738,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2013-10-22",
+    "releases": [
+      {
+        "id": "63aeb2d0-6b89-4f3f-999b-9a3771305ca2",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Demons (remixes)",
+        "status": "Official",
+        "release-group": {
+          "id": "03ae1e87-6b87-48c4-99a5-7b52569de749",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Demons (remixes)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2013-10-22",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2013-10-22",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 4,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "fa8dd49b-3958-4083-aa53-4b3a561403be",
+                "number": "2",
+                "title": "Demons (KIDinaKORNER remix)",
+                "length": 199738
+              }
+            ],
+            "track-count": 4,
+            "track-offset": 1
+          }
+        ]
+      },
+      {
+        "id": "cccded46-bd67-45ee-b23f-f5c7573fda90",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Demons (remixes)",
+        "status": "Official",
+        "release-group": {
+          "id": "03ae1e87-6b87-48c4-99a5-7b52569de749",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Demons (remixes)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2013-10-22",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2013-10-22",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 3,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "e50a7ab2-e438-4b72-bae6-36322610e177",
+                "number": "2",
+                "title": "Demons (KIDinaKORNER remix)",
+                "length": 199738
+              }
+            ],
+            "track-count": 3,
+            "track-offset": 1
+          }
+        ]
+      }
+    ],
+    "isrcs": [
+      "USUM71314302"
+    ]
+  },
+  {
+    "id": "2baf587a-e014-4ee8-a152-a7d9bf50ea3e",
+    "score": 93,
+    "title": "On Top of the World (RAC remix)",
+    "length": 216000,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2013-10-14",
+    "releases": [
+      {
+        "id": "3ec62e87-e95b-4f8c-a6e6-2ae88f917f9b",
+        "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+        "count": 1,
+        "title": "On Top of the World (RAC remix)",
+        "status": "Promotion",
+        "release-group": {
+          "id": "051fedc8-2f4c-4189-b0c7-ea0bec3d373f",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "On Top of the World",
+          "primary-type": "Single"
+        },
+        "date": "2013-10-14",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2013-10-14",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "04eedae9-1934-42a9-9f0c-7df22743ce25",
+                "number": "1",
+                "title": "On Top of the World (RAC remix)",
+                "length": 216000
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a8c42fe4-0695-45b9-a6a1-5f8a37c68753",
+    "score": 93,
+    "title": "Whatever It Takes (Miss Congeniality remix)",
+    "length": 346000,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2017-11-17",
+    "releases": [
+      {
+        "id": "47e65f9b-8db4-46b7-9b9a-5ae9225de3ca",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Whatever It Takes (Miss Congeniality remix)",
+        "status": "Official",
+        "release-group": {
+          "id": "76b33b0f-7bbc-4127-a1a3-83dd3886dfa1",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Whatever It Takes (Miss Congeniality remix)",
+          "primary-type": "Single",
+          "secondary-types": [
+            "Remix"
+          ],
+          "secondary-type-ids": [
+            "0c60f497-ff81-3818-befd-abfc84a4858b"
+          ]
+        },
+        "date": "2017-11-17",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2017-11-17",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "56d89b77-15a8-4b6b-bd3a-6bc41316531b",
+                "number": "1",
+                "title": "Whatever It Takes (Miss Congeniality remix)",
+                "length": 346000
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "alternative rock"
+      }
+    ]
+  },
+  {
+    "id": "e0bf227c-2220-4173-8f58-9f905e55f34d",
+    "score": 93,
+    "title": "It's Time (Cherry Cherry Boom Boom remix)",
+    "length": 315000,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2012-09-11",
+    "releases": [
+      {
+        "id": "b1dc23a8-9e22-4383-b984-c82c90aab22a",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "It's Time (Cherry Cherry Boom Boom remix)",
+        "status": "Official",
+        "release-group": {
+          "id": "6a93ad87-777d-4c6f-a6c6-d4379ba26ac8",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "It's Time",
+          "primary-type": "Single"
+        },
+        "date": "2012-09-11",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2012-09-11",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "bb1b2cac-2247-3124-b984-bbb118b7e3d3",
+                "number": "1",
+                "title": "It's Time (Cherry Cherry Boom Boom remix)",
+                "length": 315000
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "032fe649-9177-48b0-9e14-08789a06bbc8",
+    "score": 91,
+    "title": "Bad Liar",
+    "length": 260773,
+    "video": null,
+    "artist-credit": [
+      {
+        "name": "Imagine Dragons",
+        "artist": {
+          "id": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+          "name": "Imagine Dragons",
+          "sort-name": "Imagine Dragons"
+        }
+      }
+    ],
+    "first-release-date": "2018-11-06",
+    "releases": [
+      {
+        "id": "417d3097-1a79-4ecc-9cd1-616c25ff3e1d",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Grilla!",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b0885b-4a79-42c7-a32c-57193cf2b583",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Grilla!",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2020-06-05",
+        "country": "SE",
+        "release-events": [
+          {
+            "date": "2020-06-05",
+            "area": {
+              "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+              "name": "Sweden",
+              "sort-name": "Sweden",
+              "iso-3166-1-codes": [
+                "SE"
+              ]
+            }
+          }
+        ],
+        "track-count": 70,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "eb590e62-75a6-47a2-bbb3-358a751cc6dd",
+                "number": "14",
+                "title": "Bad Liar",
+                "length": 262573
+              }
+            ],
+            "track-count": 70,
+            "track-offset": 13
+          }
+        ]
+      },
+      {
+        "id": "441c0d3c-2826-4a2c-9523-2e7724783e9b",
+        "count": 2,
+        "title": "Ultratop hit connection 2019.1",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "2d8e3bc4-34f8-4322-b265-dd19438af829",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ultratop hit connection 2019.1",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-04-12",
+        "country": "BE",
+        "release-events": [
+          {
+            "date": "2019-04-12",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "iso-3166-1-codes": [
+                "BE"
+              ]
+            }
+          }
+        ],
+        "track-count": 38,
+        "media": [
+          {
+            "position": 2,
+            "format": "CD",
+            "track": [
+              {
+                "id": "af4c0e27-1b52-4953-9dbe-ee4581a2fac8",
+                "number": "2",
+                "title": "Bad Liar",
+                "length": 259000
+              }
+            ],
+            "track-count": 19,
+            "track-offset": 1
+          }
+        ]
+      },
+      {
+        "id": "e48ebc93-d3be-4329-9294-1c43fc12b224",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Study Time",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "2ead1bb3-4f0e-4854-bb82-0279f2fa23d7",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Study Time",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2020-09-04",
+        "country": "QA",
+        "release-events": [
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "348dcc25-7bb6-3f75-8739-97eabc84a330",
+              "name": "Qatar",
+              "sort-name": "Qatar",
+              "iso-3166-1-codes": [
+                "QA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "7b6ae6b7-6f4f-43df-aab8-0c72531ea8ae",
+              "name": "Kosovo",
+              "sort-name": "Kosovo",
+              "iso-3166-1-codes": [
+                "XK"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "424c1b50-57f8-34af-ab97-313e2ad40058",
+              "name": "Serbia",
+              "sort-name": "Serbia",
+              "iso-3166-1-codes": [
+                "RS"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "6f8faf25-44cb-313b-9162-77145cdc192d",
+              "name": "Montenegro",
+              "sort-name": "Montenegro",
+              "iso-3166-1-codes": [
+                "ME"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "0158e991-c3c6-374a-9b9d-024bbaff6980",
+              "name": "Vietnam",
+              "sort-name": "Vietnam",
+              "iso-3166-1-codes": [
+                "VN"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "2ac90d6b-04fa-3006-8a91-89da01032365",
+              "name": "Venezuela",
+              "sort-name": "Venezuela",
+              "iso-3166-1-codes": [
+                "VE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "ea88d395-87c9-3c47-b49a-114cad41fd39",
+              "name": "Uruguay",
+              "sort-name": "Uruguay",
+              "iso-3166-1-codes": [
+                "UY"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "fe40c648-ba74-3e17-b768-58181d5ee563",
+              "name": "United Arab Emirates",
+              "sort-name": "United Arab Emirates",
+              "iso-3166-1-codes": [
+                "AE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+              "name": "Ukraine",
+              "sort-name": "Ukraine",
+              "iso-3166-1-codes": [
+                "UA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+              "name": "Turkey",
+              "sort-name": "Turkey",
+              "iso-3166-1-codes": [
+                "TR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "58955071-67c1-3491-8dec-48d28f824bda",
+              "name": "Tunisia",
+              "sort-name": "Tunisia",
+              "iso-3166-1-codes": [
+                "TN"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "ce209e56-cda5-358e-96db-830e3405b675",
+              "name": "Thailand",
+              "sort-name": "Thailand",
+              "iso-3166-1-codes": [
+                "TH"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+              "name": "Taiwan",
+              "sort-name": "Taiwan",
+              "iso-3166-1-codes": [
+                "TW"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+              "name": "Switzerland",
+              "sort-name": "Switzerland",
+              "iso-3166-1-codes": [
+                "CH"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+              "name": "Sweden",
+              "sort-name": "Sweden",
+              "iso-3166-1-codes": [
+                "SE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "6e2d562d-a754-3036-8484-7ac576606e27",
+              "name": "Sri Lanka",
+              "sort-name": "Sri Lanka",
+              "iso-3166-1-codes": [
+                "LK"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+              "name": "Spain",
+              "sort-name": "Spain",
+              "iso-3166-1-codes": [
+                "ES"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+              "name": "South Africa",
+              "sort-name": "South Africa",
+              "iso-3166-1-codes": [
+                "ZA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "5b0b6225-584c-3942-b69d-5efceb9989af",
+              "name": "Slovenia",
+              "sort-name": "Slovenia",
+              "iso-3166-1-codes": [
+                "SI"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+              "name": "Slovakia",
+              "sort-name": "Slovakia",
+              "iso-3166-1-codes": [
+                "SK"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+              "name": "Singapore",
+              "sort-name": "Singapore",
+              "iso-3166-1-codes": [
+                "SG"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "122bb81f-191e-3798-8be2-4b54ffd7ffa4",
+              "name": "Senegal",
+              "sort-name": "Senegal",
+              "iso-3166-1-codes": [
+                "SN"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "9705be0d-51fb-3990-8726-ec9f56c66ba0",
+              "name": "Saudi Arabia",
+              "sort-name": "Saudi Arabia",
+              "iso-3166-1-codes": [
+                "SA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+              "name": "Russia",
+              "sort-name": "Russia",
+              "iso-3166-1-codes": [
+                "RU"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+              "name": "Romania",
+              "sort-name": "Romania",
+              "iso-3166-1-codes": [
+                "RO"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "781b0c54-3d54-362d-a941-8a617def4992",
+              "name": "Portugal",
+              "sort-name": "Portugal",
+              "iso-3166-1-codes": [
+                "PT"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+              "name": "Poland",
+              "sort-name": "Poland",
+              "iso-3166-1-codes": [
+                "PL"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+              "name": "Philippines",
+              "sort-name": "Philippines",
+              "iso-3166-1-codes": [
+                "PH"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "719f6082-95c7-3dd5-9503-e143010a6cc1",
+              "name": "Peru",
+              "sort-name": "Peru",
+              "iso-3166-1-codes": [
+                "PE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "0a750c98-a7a5-3d55-bd52-f6e9011b1537",
+              "name": "Paraguay",
+              "sort-name": "Paraguay",
+              "iso-3166-1-codes": [
+                "PY"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "6f85633b-dff4-3fb4-babd-fb89b3628041",
+              "name": "Panama",
+              "sort-name": "Panama",
+              "iso-3166-1-codes": [
+                "PA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "7ccdff29-2e00-3e50-9520-b9ea1e918bc2",
+              "name": "Oman",
+              "sort-name": "Oman",
+              "iso-3166-1-codes": [
+                "OM"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "1e23d84b-202e-3fc8-8c49-debc71e9eb16",
+              "name": "Nigeria",
+              "sort-name": "Nigeria",
+              "iso-3166-1-codes": [
+                "NG"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "d2b87acd-06ce-3c71-b3ff-a35d914bbabe",
+              "name": "Nicaragua",
+              "sort-name": "Nicaragua",
+              "iso-3166-1-codes": [
+                "NI"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+              "name": "New Zealand",
+              "sort-name": "New Zealand",
+              "iso-3166-1-codes": [
+                "NZ"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+              "name": "Netherlands",
+              "sort-name": "Netherlands",
+              "iso-3166-1-codes": [
+                "NL"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "b84d8617-249a-3a06-849d-fc5c25e2249b",
+              "name": "Morocco",
+              "sort-name": "Morocco",
+              "iso-3166-1-codes": [
+                "MA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+              "name": "Mexico",
+              "sort-name": "Mexico",
+              "iso-3166-1-codes": [
+                "MX"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "050c94f7-1413-3a34-bb90-4a94f3bb2084",
+              "name": "Malta",
+              "sort-name": "Malta",
+              "iso-3166-1-codes": [
+                "MT"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "305d19c7-c040-349c-8d5f-6ac75d2d2a09",
+              "name": "Malaysia",
+              "sort-name": "Malaysia",
+              "iso-3166-1-codes": [
+                "MY"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "fa75cdb9-cbc4-35de-8bf4-a21e7b811484",
+              "name": "North Macedonia",
+              "sort-name": "North Macedonia",
+              "iso-3166-1-codes": [
+                "MK"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+              "name": "Luxembourg",
+              "sort-name": "Luxembourg",
+              "iso-3166-1-codes": [
+                "LU"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+              "name": "Lithuania",
+              "sort-name": "Lithuania",
+              "iso-3166-1-codes": [
+                "LT"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+              "name": "Lebanon",
+              "sort-name": "Lebanon",
+              "iso-3166-1-codes": [
+                "LB"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+              "name": "Latvia",
+              "sort-name": "Latvia",
+              "iso-3166-1-codes": [
+                "LV"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "f03f2625-dc7d-38b2-a058-4e9ca0e10424",
+              "name": "Kuwait",
+              "sort-name": "Kuwait",
+              "iso-3166-1-codes": [
+                "KW"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+              "name": "South Korea",
+              "sort-name": "South Korea",
+              "iso-3166-1-codes": [
+                "KR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "023da4a0-acee-3fb1-b91e-5de74ccf787b",
+              "name": "Kenya",
+              "sort-name": "Kenya",
+              "iso-3166-1-codes": [
+                "KE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+              "name": "Italy",
+              "sort-name": "Italy",
+              "iso-3166-1-codes": [
+                "IT"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+              "name": "Israel",
+              "sort-name": "Israel",
+              "iso-3166-1-codes": [
+                "IL"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+              "name": "Ireland",
+              "sort-name": "Ireland",
+              "iso-3166-1-codes": [
+                "IE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+              "name": "Indonesia",
+              "sort-name": "Indonesia",
+              "iso-3166-1-codes": [
+                "ID"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "d31a9a15-537f-3669-ad53-25753ddd2772",
+              "name": "India",
+              "sort-name": "India",
+              "iso-3166-1-codes": [
+                "IN"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "48802a32-075a-3805-a183-277c66047693",
+              "name": "Iceland",
+              "sort-name": "Iceland",
+              "iso-3166-1-codes": [
+                "IS"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+              "name": "Hungary",
+              "sort-name": "Hungary",
+              "iso-3166-1-codes": [
+                "HU"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+              "name": "Hong Kong",
+              "sort-name": "Hong Kong",
+              "iso-3166-1-codes": [
+                "HK"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "0c3ea915-4e49-34fc-b702-debb216fd7fa",
+              "name": "Honduras",
+              "sort-name": "Honduras",
+              "iso-3166-1-codes": [
+                "HN"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "01448ddc-6ee3-3fa4-b136-507d984e31ee",
+              "name": "Guatemala",
+              "sort-name": "Guatemala",
+              "iso-3166-1-codes": [
+                "GT"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+              "name": "Greece",
+              "sort-name": "Greece",
+              "iso-3166-1-codes": [
+                "GR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "cf48f4b4-28f0-39ab-9104-650324a1d1c8",
+              "name": "Ghana",
+              "sort-name": "Ghana",
+              "iso-3166-1-codes": [
+                "GH"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+              "name": "Finland",
+              "sort-name": "Finland",
+              "iso-3166-1-codes": [
+                "FI"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+              "name": "Estonia",
+              "sort-name": "Estonia",
+              "iso-3166-1-codes": [
+                "EE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "f2fa4bfb-97aa-3db4-8d49-cc64969ce1a7",
+              "name": "El Salvador",
+              "sort-name": "El Salvador",
+              "iso-3166-1-codes": [
+                "SV"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+              "name": "Egypt",
+              "sort-name": "Egypt",
+              "iso-3166-1-codes": [
+                "EG"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "967abc0e-f680-3cde-95d0-0b79b977d410",
+              "name": "Ecuador",
+              "sort-name": "Ecuador",
+              "iso-3166-1-codes": [
+                "EC"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "696cb3e0-5084-30ab-9916-65ece70adbf6",
+              "name": "Dominican Republic",
+              "sort-name": "Dominican Republic",
+              "iso-3166-1-codes": [
+                "DO"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "4757b525-2a60-324a-b060-578765d2c993",
+              "name": "Denmark",
+              "sort-name": "Denmark",
+              "iso-3166-1-codes": [
+                "DK"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+              "name": "Czech Republic",
+              "sort-name": "Czech Republic",
+              "iso-3166-1-codes": [
+                "CZ"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "a75b525f-8c01-31f6-975e-4a32a2b001d5",
+              "name": "Cyprus",
+              "sort-name": "Cyprus",
+              "iso-3166-1-codes": [
+                "CY"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "7d30afff-e425-356a-873e-17ae9745b31d",
+              "name": "Croatia",
+              "sort-name": "Croatia",
+              "iso-3166-1-codes": [
+                "HR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "e56e3d7a-4b90-3546-8450-49548050924a",
+              "name": "Côte d'Ivoire",
+              "sort-name": "Côte d'Ivoire",
+              "iso-3166-1-codes": [
+                "CI"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "ba544658-8266-36cb-ac0e-3bdfbf52cb00",
+              "name": "Costa Rica",
+              "sort-name": "Costa Rica",
+              "iso-3166-1-codes": [
+                "CR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "02b60d8d-7164-339d-868d-22d147d9f74a",
+              "name": "Colombia",
+              "sort-name": "Colombia",
+              "iso-3166-1-codes": [
+                "CO"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7",
+              "name": "Chile",
+              "sort-name": "Chile",
+              "iso-3166-1-codes": [
+                "CL"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "name": "Canada",
+              "sort-name": "Canada",
+              "iso-3166-1-codes": [
+                "CA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "bf132644-e3ee-3bfc-9323-7f82824e4945",
+              "name": "Cameroon",
+              "sort-name": "Cameroon",
+              "iso-3166-1-codes": [
+                "CM"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "ee26e886-87f5-33a2-8e8e-f9591490426d",
+              "name": "Cambodia",
+              "sort-name": "Cambodia",
+              "iso-3166-1-codes": [
+                "KH"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+              "name": "Bulgaria",
+              "sort-name": "Bulgaria",
+              "iso-3166-1-codes": [
+                "BG"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+              "name": "Brazil",
+              "sort-name": "Brazil",
+              "iso-3166-1-codes": [
+                "BR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "f2b64f81-6d36-35b3-94b9-5ba53d693914",
+              "name": "Bosnia and Herzegovina",
+              "sort-name": "Bosnia and Herzegovina",
+              "iso-3166-1-codes": [
+                "BA"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "a5aed4a3-8ce1-3ab3-bfee-b008cff6b857",
+              "name": "Bolivia",
+              "sort-name": "Bolivia",
+              "iso-3166-1-codes": [
+                "BO"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "iso-3166-1-codes": [
+                "BE"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "660e3c48-b301-3c8c-9708-0f71d5d094d6",
+              "name": "Belarus",
+              "sort-name": "Belarus",
+              "iso-3166-1-codes": [
+                "BY"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "65f4f7a6-d3c1-3a6b-a726-85e147d555b7",
+              "name": "Bahrain",
+              "sort-name": "Bahrain",
+              "iso-3166-1-codes": [
+                "BH"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+              "name": "Austria",
+              "sort-name": "Austria",
+              "iso-3166-1-codes": [
+                "AT"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+              "name": "Australia",
+              "sort-name": "Australia",
+              "iso-3166-1-codes": [
+                "AU"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+              "name": "Argentina",
+              "sort-name": "Argentina",
+              "iso-3166-1-codes": [
+                "AR"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+              "name": "Algeria",
+              "sort-name": "Algeria",
+              "iso-3166-1-codes": [
+                "DZ"
+              ]
+            }
+          },
+          {
+            "date": "2020-09-04",
+            "area": {
+              "id": "1c69b790-b46b-3e92-b6b4-93b4364badbc",
+              "name": "Albania",
+              "sort-name": "Albania",
+              "iso-3166-1-codes": [
+                "AL"
+              ]
+            }
+          }
+        ],
+        "track-count": 31,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "9ccc0452-bc57-4917-9eb8-0e325983481a",
+                "number": "19",
+                "title": "Bad Liar",
+                "length": 260293
+              }
+            ],
+            "track-count": 31,
+            "track-offset": 18
+          }
+        ]
+      },
+      {
+        "id": "640cc9ad-6938-4e01-bff4-70918c2018bb",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Megahits: Sommer 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "993c4653-9cea-43fe-996d-aa7ef7423252",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Megahits: Sommer 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-06-28",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-06-28",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 48,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "505f089e-b0d8-49ef-9cc3-ca379a493601",
+                "number": "11",
+                "title": "Bad Liar",
+                "length": 258959
+              }
+            ],
+            "track-count": 24,
+            "track-offset": 10
+          }
+        ]
+      },
+      {
+        "id": "528d0509-8eef-4a21-8497-ae190abb13e8",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Megahits: Sommer 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "993c4653-9cea-43fe-996d-aa7ef7423252",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Megahits: Sommer 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-06-28",
+        "country": "AT",
+        "release-events": [
+          {
+            "date": "2019-06-28",
+            "area": {
+              "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+              "name": "Austria",
+              "sort-name": "Austria",
+              "iso-3166-1-codes": [
+                "AT"
+              ]
+            }
+          },
+          {
+            "date": "2019-06-28",
+            "area": {
+              "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+              "name": "Switzerland",
+              "sort-name": "Switzerland",
+              "iso-3166-1-codes": [
+                "CH"
+              ]
+            }
+          },
+          {
+            "date": "2019-06-28",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 48,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "fe952fc1-70e6-4222-a3b7-e95c17062d9a",
+                "number": "11",
+                "title": "Bad Liar",
+                "length": 262000
+              }
+            ],
+            "track-count": 48,
+            "track-offset": 10
+          }
+        ]
+      },
+      {
+        "id": "dbc589fd-cb76-44e7-ad79-99f9a4da2619",
+        "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+        "count": 1,
+        "title": "Promo Only: Modern Rock Radio, February 2019",
+        "status": "Promotion",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "0b308356-d77d-4fc5-b91c-65c01add08f2",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Promo Only: Modern Rock Radio, February 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2019",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 22,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "8f9b2ce1-e6c9-4a25-ae9a-7226dd193fc9",
+                "number": "4",
+                "title": "Bad Liar",
+                "length": 260519
+              }
+            ],
+            "track-count": 22,
+            "track-offset": 3
+          }
+        ]
+      },
+      {
+        "id": "e0f17d4c-d246-45f7-bf8f-fc77183eb7c1",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 3,
+        "title": "NRJ L'année des hits 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "ef677126-573b-4c9d-8b16-b927d94346d4",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "NRJ L'année des hits 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-12-13",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-12-13",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 60,
+        "media": [
+          {
+            "position": 2,
+            "format": "CD",
+            "track": [
+              {
+                "id": "0ba4743a-b14f-47f6-be2f-22c2836f99e2",
+                "number": "15",
+                "title": "Bad Liar",
+                "length": 262586
+              }
+            ],
+            "track-count": 20,
+            "track-offset": 14
+          }
+        ]
+      },
+      {
+        "id": "196ee2c5-e28d-4b1b-b387-65047a897f79",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Hitlist: The Greatest of Imagine Dragons",
+        "status": "Official",
+        "release-group": {
+          "id": "d9602a8a-71b1-47e1-86e4-3295535d1b55",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Hitlist: The Greatest of Imagine Dragons",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2018",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2018",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 22,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "52243eaf-0065-4bb3-a518-09aef6443d8b",
+                "number": "21",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 22,
+            "track-offset": 20
+          }
+        ]
+      },
+      {
+        "id": "62866cf5-52fd-43d3-b550-c3620ceb7f48",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 4,
+        "title": "W9 Hits 2019, Vol. 2",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "37054a15-0ec5-41a8-b405-5171aefb0639",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "W9 Hits 2019, Vol. 2",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-05-03",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-05-03",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 80,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "383077ec-7a19-4cea-baaa-0ff21338ae65",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 262613
+              }
+            ],
+            "track-count": 20,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "d8b647c7-1559-4ac3-8f27-dc35daca6706",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Ö3 Greatest Hits 85",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "e907ca10-34e5-4d9e-b695-e5ee8722a91a",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ö3 Greatest Hits 85",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "track-count": 24,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "b1ec8252-0add-4846-ad5d-7fda8f3a51ea",
+                "number": "3",
+                "title": "Bad Liar",
+                "length": 259746
+              }
+            ],
+            "track-count": 24,
+            "track-offset": 2
+          }
+        ]
+      },
+      {
+        "id": "afd720bd-2b94-41e5-a4e8-af8c64212d93",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "#Hits printemps 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "a6955b59-123c-4001-b5de-4b884b584cfb",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "#Hits printemps 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-05-10",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-05-10",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "9c85b9d8-8ba4-4f16-a681-840a38401069",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261826
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "843103e4-9646-4d98-b03e-b9740873366d",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 3,
+        "title": "NRJ Hit Music Only 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b7ce6e4b-ff7d-42f7-9681-cdcc4046aa51",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "NRJ Hit Music Only 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-04-12",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-04-12",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 54,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "75cd3045-c65f-40d2-9272-0d0b59f56f63",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 259920
+              }
+            ],
+            "track-count": 18,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "baa159b5-abb1-4600-999a-bc662e45546f",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "The Dome, Vol. 89",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "af0d176f-0a46-4956-b708-448761dee925",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "The Dome, Vol. 89",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-03-08",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-03-08",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "aa10d2a8-afc1-42fb-bf37-d92f2ac1c5d5",
+                "number": "4",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 3
+          }
+        ]
+      },
+      {
+        "id": "971c798a-b588-4359-9fc4-4d87b4072121",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "#Hits été-rentrée 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b4813f8b-5ddc-4dcf-88ec-db9bc769583c",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "#Hits été-rentrée 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-08-09",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-08-09",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "5c8fd4f6-8204-4403-86c6-f947317946fe",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 262573
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "521b4123-6e3f-4917-b380-b002178fc242",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 3,
+        "title": "MNM Big Hits: Best of 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "f3ac2664-62aa-44a7-b216-4201d01b6775",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "MNM Big Hits: Best of 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-11-22",
+        "country": "BE",
+        "release-events": [
+          {
+            "date": "2019-11-22",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "iso-3166-1-codes": [
+                "BE"
+              ]
+            }
+          }
+        ],
+        "track-count": 67,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "c69e0b52-c964-42cf-9672-3e56ea75e55b",
+                "number": "13",
+                "title": "Bad Liar",
+                "length": 260000
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 12
+          }
+        ]
+      },
+      {
+        "id": "bb7a4b1e-dd17-44ec-9f76-730147d797a2",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 3,
+        "title": "MNM Big Hits: Best of 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "f3ac2664-62aa-44a7-b216-4201d01b6775",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "MNM Big Hits: Best of 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-11-22",
+        "country": "BE",
+        "release-events": [
+          {
+            "date": "2019-11-22",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "iso-3166-1-codes": [
+                "BE"
+              ]
+            }
+          }
+        ],
+        "track-count": 67,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "3ce36d3a-7bde-4e47-a918-eab586799827",
+                "number": "13",
+                "title": "Bad Liar",
+                "length": 259880
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 12
+          }
+        ]
+      },
+      {
+        "id": "6aa5ff3e-bc6c-4a45-a8d2-33183293d60c",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Die ultimative Chart Show: Die erfolgreichsten Hits 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "e34993c6-b362-45cd-8ba1-f05379ce9c89",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Die ultimative Chart Show: Die erfolgreichsten Hits 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-11-22",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-11-22",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 48,
+        "media": [
+          {
+            "position": 2,
+            "format": "CD",
+            "track": [
+              {
+                "id": "2f370591-7614-4464-8a7f-07931e45b5d6",
+                "number": "4",
+                "title": "Bad Liar",
+                "length": 262000
+              }
+            ],
+            "track-count": 24,
+            "track-offset": 3
+          }
+        ]
+      },
+      {
+        "id": "aa08ce07-6cb2-434e-8b84-9ae67364d424",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Die ultimative Chart Show: Die erfolgreichsten Hits 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "e34993c6-b362-45cd-8ba1-f05379ce9c89",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Die ultimative Chart Show: Die erfolgreichsten Hits 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-11-22",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-11-22",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 48,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "57b98cab-09e8-49f3-ac81-7e98fa8af884",
+                "number": "28",
+                "title": "Bad Liar",
+                "length": 262453
+              }
+            ],
+            "track-count": 48,
+            "track-offset": 27
+          }
+        ]
+      },
+      {
+        "id": "873f8313-54d9-4c90-b78e-1e22d235fdf8",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Now 34",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "f0fa308d-8803-4beb-8427-d258ba2e0c51",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Now 34",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-12-06",
+        "country": "PT",
+        "release-events": [
+          {
+            "date": "2019-12-06",
+            "area": {
+              "id": "781b0c54-3d54-362d-a941-8a617def4992",
+              "name": "Portugal",
+              "sort-name": "Portugal",
+              "iso-3166-1-codes": [
+                "PT"
+              ]
+            }
+          }
+        ],
+        "track-count": 40,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "3ef1205d-9d12-4031-b1c2-ad5bf5aed007",
+                "number": "2",
+                "title": "Bad Liar",
+                "length": 260773
+              }
+            ],
+            "track-count": 20,
+            "track-offset": 1
+          }
+        ]
+      },
+      {
+        "id": "4cc706f9-09b3-44f1-a7dc-20061d76096a",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Bravo the Hits 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "250ae926-ca14-4214-940e-64b61dddf733",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Bravo: The Hits 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-11-08",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-11-08",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 49,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "4b87a849-8a0f-4b9a-ac52-181c5cbb9185",
+                "number": "33",
+                "title": "Bad Liar",
+                "length": 259720
+              }
+            ],
+            "track-count": 49,
+            "track-offset": 32
+          }
+        ]
+      },
+      {
+        "id": "fe604061-6b32-4d56-8615-bdad559d0aaa",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Bravo: The Hits 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "250ae926-ca14-4214-940e-64b61dddf733",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Bravo: The Hits 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-11-08",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-11-08",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 49,
+        "media": [
+          {
+            "position": 2,
+            "format": "CD",
+            "track": [
+              {
+                "id": "24488dc6-588d-4602-a129-5e0fce54657b",
+                "number": "8",
+                "title": "Bad Liar",
+                "length": 259720
+              }
+            ],
+            "track-count": 24,
+            "track-offset": 7
+          }
+        ]
+      },
+      {
+        "id": "1085b4d7-1ff3-494c-8aec-b5330c6897cf",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "We Love Summer 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "e77565fd-c642-48de-8853-659ca9e69873",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "We Love Summer 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-05-31",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-05-31",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "46a7fb8f-1f59-4342-b966-3f2f553e7853",
+                "number": "28",
+                "title": "Bad Liar",
+                "length": 259653
+              }
+            ],
+            "track-count": 46,
+            "track-offset": 27
+          }
+        ]
+      },
+      {
+        "id": "4ca1b9d0-5fda-42cc-b5b1-725bda3a2816",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Toggo Music 51",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "306167da-9eae-4c9c-b4ec-8b0297ce4747",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Toggo Music 51",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 23,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "d6865f90-bbf2-4d7b-8a9b-472b52ddf0d8",
+                "number": "12",
+                "title": "Bad Liar",
+                "length": 260773
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 11
+          }
+        ]
+      },
+      {
+        "id": "6ec94918-68ba-491a-9385-9c5910f63dc7",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Toggo Music 51",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "306167da-9eae-4c9c-b4ec-8b0297ce4747",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Toggo Music 51",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-02-22",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-02-22",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 23,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "9d7a0a80-9094-4154-9c7f-e452eabde0ce",
+                "number": "12",
+                "title": "Bad Liar",
+                "length": 260773
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 11
+          }
+        ]
+      },
+      {
+        "id": "075c4b82-0070-47e3-bdb6-bc5e2b7f8fee",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Best Of 2019 - Frühlingshits",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "c357b83f-2051-4994-97bf-e691875cd19c",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Best of 2019: Frühlingshits",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-03-29",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-03-29",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "8362cb46-094f-4143-946b-a9ef10e469f9",
+                "number": "7",
+                "title": "Bad Liar",
+                "length": 259587
+              }
+            ],
+            "track-count": 46,
+            "track-offset": 6
+          }
+        ]
+      },
+      {
+        "id": "87b161fa-53cc-4d2e-85dd-bd54da3111c0",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Ö3 Greatest Hits 85",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "e907ca10-34e5-4d9e-b695-e5ee8722a91a",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ö3 Greatest Hits 85",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-05-31",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-05-31",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          },
+          {
+            "date": "2019-05-31",
+            "area": {
+              "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+              "name": "Switzerland",
+              "sort-name": "Switzerland",
+              "iso-3166-1-codes": [
+                "CH"
+              ]
+            }
+          }
+        ],
+        "track-count": 24,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "f71c45ef-f630-42c9-be9e-91128b0428a9",
+                "number": "3",
+                "title": "Bad Liar",
+                "length": 257747
+              }
+            ],
+            "track-count": 24,
+            "track-offset": 2
+          }
+        ]
+      },
+      {
+        "id": "46a3ad54-c27e-442e-a846-3079cfa0c263",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Ultratop Hit Connection 2019.1",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "2d8e3bc4-34f8-4322-b265-dd19438af829",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ultratop hit connection 2019.1",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-04-05",
+        "country": "BE",
+        "release-events": [
+          {
+            "date": "2019-04-05",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "iso-3166-1-codes": [
+                "BE"
+              ]
+            }
+          }
+        ],
+        "track-count": 38,
+        "media": [
+          {
+            "position": 2,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "fe416452-7852-48e0-80eb-ccfde73d7fad",
+                "number": "2",
+                "title": "Bad Liar",
+                "length": 259200
+              }
+            ],
+            "track-count": 19,
+            "track-offset": 1
+          }
+        ]
+      },
+      {
+        "id": "c592f5b3-3db5-4322-ae87-8452bd1e6e7c",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "NOW That’s What I Call Music! 70",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "6eeec16a-b334-4120-86aa-296910006623",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "NOW That’s What I Call Music! 70",
+          "disambiguation": "USA",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2019",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 21,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "e6234420-43a3-466d-a869-d806d394f6ea",
+                "number": "13",
+                "title": "Bad Liar",
+                "length": 258480
+              }
+            ],
+            "track-count": 21,
+            "track-offset": 12
+          }
+        ]
+      },
+      {
+        "id": "4fdf8d05-ed1b-4fac-a8ca-0471797b28e2",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "MNM Big Hits 2019, Vol. 1",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "9cf1d9c6-f838-48f6-84e0-d8f87b99ab06",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "MNM Big Hits 2019, Vol. 1",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-02-15",
+        "country": "BE",
+        "release-events": [
+          {
+            "date": "2019-02-15",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "iso-3166-1-codes": [
+                "BE"
+              ]
+            }
+          }
+        ],
+        "track-count": 41,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "66865285-5dda-4e41-9715-2c8a10642144",
+                "number": "7",
+                "title": "Bad Liar",
+                "length": 259000
+              }
+            ],
+            "track-count": 21,
+            "track-offset": 6
+          }
+        ]
+      },
+      {
+        "id": "c9053002-454c-4034-8776-d1f15215e298",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Virgin Radio 2019, Vol. 2",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "32483b53-02e2-4925-bbea-5f426afac499",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Virgin Radio 2019, Vol. 2",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-03-15",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-03-15",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 40,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "b321ff2f-5bbc-4f46-a0ce-dfdf65b0355b",
+                "number": "4",
+                "title": "Bad Liar",
+                "length": 262173
+              }
+            ],
+            "track-count": 20,
+            "track-offset": 3
+          }
+        ]
+      },
+      {
+        "id": "9a279da6-ecc2-4370-93dc-3e935673d0f4",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Best of 2019: Frühlingshits",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "c357b83f-2051-4994-97bf-e691875cd19c",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Best of 2019: Frühlingshits",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "db10e6b1-d4f8-4482-a927-c99fb29f3073",
+                "number": "7",
+                "title": "Bad Liar",
+                "length": 260946
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 6
+          }
+        ]
+      },
+      {
+        "id": "eb5d3c6c-fcc2-46ad-abbd-f2c5e208bf3a",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "NOW That’s What I Call Music! 70",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "6eeec16a-b334-4120-86aa-296910006623",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "NOW That’s What I Call Music! 70",
+          "disambiguation": "USA",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-05-03",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2019-05-03",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 21,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "f97ce93f-e8c0-436d-89c1-3751b5195ed2",
+                "number": "13",
+                "title": "Bad Liar",
+                "length": 258480
+              }
+            ],
+            "track-count": 21,
+            "track-offset": 12
+          }
+        ]
+      },
+      {
+        "id": "2abc39bb-6f5e-432b-a431-9cf5b6758744",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins (international deluxe)",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          },
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 16,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "41ac6db7-67ad-4dc2-8c21-ebd884200505",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 16,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "87749c01-e3d7-4491-9e57-c6564f4baebb",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Energy NRJ Hits 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "187db0f9-fe7c-4c59-8660-e257d2a7702d",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Energy NRJ Hits 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-05-10",
+        "country": "FR",
+        "release-events": [
+          {
+            "date": "2019-05-10",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "name": "France",
+              "sort-name": "France",
+              "iso-3166-1-codes": [
+                "FR"
+              ]
+            }
+          }
+        ],
+        "track-count": 44,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "b92794ad-f878-4ca5-97e6-111090e15607",
+                "number": "23",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 44,
+            "track-offset": 22
+          }
+        ]
+      },
+      {
+        "id": "8a23659e-8ddf-453b-aa9c-314f1e91c668",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Bravo Hits Wiosna 2019",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "02837d5c-9e87-4206-b40f-7f8b22e84fd2",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Bravo Hits Wiosna 2019",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-03-08",
+        "country": "PL",
+        "release-events": [
+          {
+            "date": "2019-03-08",
+            "area": {
+              "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+              "name": "Poland",
+              "sort-name": "Poland",
+              "iso-3166-1-codes": [
+                "PL"
+              ]
+            }
+          }
+        ],
+        "track-count": 40,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "3025c2a7-6b37-4bb3-8d51-c0b2121aa043",
+                "number": "12",
+                "title": "Bad Liar",
+                "length": 262000
+              }
+            ],
+            "track-count": 20,
+            "track-offset": 11
+          }
+        ]
+      },
+      {
+        "id": "350d30da-fb90-45f6-9fdf-70c2fcb6889e",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Bravo Hits 104",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "9ae1beb3-4d10-409a-b0a5-32410d088c1f",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Bravo Hits 104",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-02-15",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-02-15",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "fb12034c-b03f-43ae-b055-7dd1569e2e11",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 260427
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "606ab41a-a273-462b-8428-be4ec7498247",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "538: Hitzone 88",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "92048c43-e546-47c9-87b7-72bdae6dd9e9",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "538: Hitzone 88",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-03-01",
+        "country": "NL",
+        "release-events": [
+          {
+            "date": "2019-03-01",
+            "area": {
+              "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+              "name": "Netherlands",
+              "sort-name": "Netherlands",
+              "iso-3166-1-codes": [
+                "NL"
+              ]
+            }
+          }
+        ],
+        "track-count": 22,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "61591a84-2140-45c3-b90b-9dca34c7320b",
+                "number": "9",
+                "title": "Bad Liar",
+                "length": 262000
+              }
+            ],
+            "track-count": 22,
+            "track-offset": 8
+          }
+        ]
+      },
+      {
+        "id": "9a410782-26a2-49b2-9e3d-c68992a69948",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Bravo Hits 104",
+        "status": "Official",
+        "artist-credit": [
+          {
+            "name": "Various Artists",
+            "artist": {
+              "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+              "name": "Various Artists",
+              "sort-name": "Various Artists",
+              "disambiguation": "add compilations to this artist"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "9ae1beb3-4d10-409a-b0a5-32410d088c1f",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Bravo Hits 104",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2019-02-15",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2019-02-15",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "track-count": 46,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "8025ef23-419f-4448-be7b-4d9578bb9cd8",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 260000
+              }
+            ],
+            "track-count": 23,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "3883933c-8b48-443d-ac6c-388bdd4fb24e",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "track-count": 12,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "3d30c0fa-adcf-4549-9e6d-c641779ba774",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 260000
+              }
+            ],
+            "track-count": 12,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "c4bdb98d-db28-4213-b1e2-a29437d69159",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins (international deluxe)",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "track-count": 16,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "dc2a862b-4415-43f4-8313-aad5c432c6fb",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 16,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "571810a7-5fef-470f-8637-e630c0b6db40",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 2,
+        "title": "Origins",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-12-21",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2018-12-21",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 15,
+        "media": [
+          {
+            "position": 1,
+            "format": "12\" Vinyl",
+            "track": [
+              {
+                "id": "a06c9891-e682-41da-af99-1a9fb467895c",
+                "number": "B1",
+                "title": "Bad Liar"
+              }
+            ],
+            "track-count": 8,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "eaca82a7-a557-4953-9d67-f7eb2c5fa06b",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "2018",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "729c755f-2cd7-402c-bcd2-17265db47089",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 12,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "a4c62cc8-f574-4f07-8008-4c363dd9ee9f",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "disambiguation": "deluxe",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "track-count": 15,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "f146b5bb-92ac-4129-87f9-488f5ec4f209",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 15,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "178d14c1-8cc4-4170-8f8d-404db7c1e7a5",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins (international deluxe)",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "AU",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+              "name": "Australia",
+              "sort-name": "Australia",
+              "iso-3166-1-codes": [
+                "AU"
+              ]
+            }
+          }
+        ],
+        "track-count": 16,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "af8ac733-044e-4036-91f4-b283d0a07506",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 16,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "28adcf65-8c07-4da2-96eb-582943c0327d",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "disambiguation": "Target exclusive",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 15,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "a648854b-cb98-4fe0-a4d7-137a4c6c45a7",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 15,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "3743dd50-a33f-44b6-bf71-613d249fabe3",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "position": 1,
+            "format": "CD",
+            "track": [
+              {
+                "id": "b15a4bee-4dd2-462b-a267-420a96f09122",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 12,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "6579a374-1581-4b65-9ac8-cc18b29f1efa",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Bad Liar",
+        "status": "Official",
+        "release-group": {
+          "id": "168feb63-6d38-4f4d-8dc8-18ec57515485",
+          "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+          "title": "Bad Liar",
+          "primary-type": "Single"
+        },
+        "date": "2018-11-06",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "2018-11-06",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "track-count": 1,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "1eab2532-43b0-4cec-9528-588b0103272e",
+                "number": "1",
+                "title": "Bad Liar",
+                "length": 260000
+              }
+            ],
+            "track-count": 1,
+            "track-offset": 0
+          }
+        ]
+      },
+      {
+        "id": "a4e3eab4-02d9-4c0b-b117-f4d6efb2c27a",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "77a0c5dd-64d0-44eb-82ee-99ffbb336ef8",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 12,
+            "track-offset": 4
+          }
+        ]
+      },
+      {
+        "id": "c9a6f7c0-e160-4ba1-aca9-05b465a78bb8",
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "count": 1,
+        "title": "Origins",
+        "status": "Official",
+        "disambiguation": "deluxe",
+        "release-group": {
+          "id": "042160ca-6094-42b4-8399-9e0141fa9515",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Origins",
+          "primary-type": "Album"
+        },
+        "date": "2018-11-09",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "2018-11-09",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "track-count": 15,
+        "media": [
+          {
+            "position": 1,
+            "format": "Digital Media",
+            "track": [
+              {
+                "id": "a7bb3637-df92-42f0-8188-4c1c7a4a7b9a",
+                "number": "5",
+                "title": "Bad Liar",
+                "length": 261000
+              }
+            ],
+            "track-count": 15,
+            "track-offset": 4
+          }
+        ]
+      }
+    ],
+    "isrcs": [
+      "USUM71816161"
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "pop / rap"
+      }
+    ]
+  }
+]
